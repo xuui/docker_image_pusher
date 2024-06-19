@@ -1,2 +1,2 @@
-redis:7.2.5-alpine
-phpmyadmin:5.2.1-apache
+nginx:1.27.0-alpine
+nginx:1.26.1-alpine
