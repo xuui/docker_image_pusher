@@ -1,2 +1,2 @@
-redis:7.2.4-alpine
+redis:7.2.5-alpine
 phpmyadmin:5.2.1-apache
