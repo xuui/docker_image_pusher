@@ -1,2 +1,2 @@
-php:8.2.16-fpm-bookworm
-php:8.2.16-apache-bookworm
+wiznote/wizserver:latest
+linuxserver/webtop:latest
