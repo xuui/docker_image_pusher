@@ -1,2 +1,1 @@
-wiznote/wizserver:latest
-linuxserver/webtop:latest
+minio/minio:latest
